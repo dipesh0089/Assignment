@@ -1,0 +1,51 @@
+
+
+WD-HTML assignment
+
+
+
+1) No,yes , An HTML element is a part of an HTML document that defines a particular type of content, such as a paragraph, an image, or a link. An element is usually made up of a pair of tags that surround the content, like this: 
+   <p>paragraph</P> this example line like element and this is tag <p></p>
+
+2) In HTML, tags are used to define different elements within a web page. Tags are enclosed in angle brackets and often come in pairs with an opening tag, such as <table>, and a closing tag, such as </table>, that surround the content or element they are defining.Attributes are used to provide additional information about an HTML element, such as its size, color, alignment, or behavior.
+
+3) Void elements are a special category of HTML elements that don't require a closing tag. Void elements are self-closing    Example: <meta>, <br> , <image> , <input>
+
+4) An HTML entity is a piece of text ("string") that begins with an ampersand ( & ) and ends with a semicolon ( ; )
+
+5) There are 3 types of lists in HTML :
+   Unordered List: li
+   Ordered List: ol
+   Description List: dl
+
+6) The class attribute specifies one or more classnames for an element.
+
+7) A Class name can be used by multiple HTML elements, while an ID name must only be used by one HTML element within the page.
+
+8) formatting tags in HTML nanme: <b> , <i> , <u> , <sup> , <sub>
+
+9) Cell Padding: Cell padding refers to the space between the content of a cell and the edge of that cell.Cell Spacing: Cell spacing refers to the space between the border of one cell and the border of the cell.
+
+10) rowspan is used to merge or combine the number of cells in a row whereas 
+    colspan is used to merge column cells in a table.
+
+11) Block elements always start from a new line and occupies whole widht. Inline elements never start from a new line and occupy 
+    required widht only.
+
+12) We have write in HTML <a> element to define a link. Next  href attribute Next inside herf write select image location iamge name .type and close element.
+
+13) iframe tag specifies an inline frame. An inline frame is used to embed another document within the current HTML document.
+
+14) span tag is an inline container used to mark up a part of a text, or a part of a document.
+
+15) <img src=""> and inside src we have to add path of image / image name.type
+
+16) Normal links are links which are there on the page and have not been clicked yet. Active links are those links, which have just been clicked at that instant.
+
+17) There are three tags: <br> <p> <blockquote>
+
+18) SVG stands for Scalable Vector Graphics. It's a vector graphics format that uses XML to define graphics, allowing them to be scaled up or down without loss of quality. SVGs are used for web graphics, icons, and illustrations, and can be edited with a text editor or specialized graphics software.
+
+19) HTML is the standard markup language for creating web pages, while XHTML is a stricter and more standardized version of HTML.
+
+20) Physical and Logical tags are used in HTML for better visibility and understanding of the text by the user on the web page.
